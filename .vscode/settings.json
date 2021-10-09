@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\datahack\\anaconda3\\envs\\myopencv\\python.exe",
+    "jupyter.alwaysTrustNotebooks": true,
+    "terminal.integrated.automationShell.windows": "C:\\WINDOWS\\System32\\cmd.exe"
+    
+}
